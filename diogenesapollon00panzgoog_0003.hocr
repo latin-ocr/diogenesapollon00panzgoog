@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diogenesapollon00panzgoog_0003.png"; bbox 0 0 842 1367; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 896 731 1035">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 178 896 731 1035">
+     <span class='ocr_line' id='line_1_1' title="bbox 250 896 506 907; baseline 0.016 -4"><span class='ocrx_word' id='word_1_1' title='bbox 250 902 253 903; x_wconf 34' lang='lat' dir='ltr'><em>r</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 453 897 484 907; x_wconf 71' lang='lat' dir='ltr'>1²0ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 497 896 506 906; x_wconf 65' lang='grc' dir='ltr'>Ε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 246 913 705 982; baseline 0.008 -17.484"><span class='ocrx_word' id='word_1_4' title='bbox 246 932 250 934; x_wconf 61' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 264 913 555 973; x_wconf 53' lang='grc' dir='ltr'>Ἰωήαῖῗὲῑεῖἕήέἶπγῶᾶ</span> <span class='ocrx_word' id='word_1_6' title='bbox 615 970 619 979; x_wconf 11' lang='grc' dir='ltr'>Ἴ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 694 963 705 982; x_wconf 25' lang='lat'>.-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 179 970 721 1030; baseline 0.013 -25"><span class='ocrx_word' id='word_1_8' title='bbox 179 970 193 985; x_wconf 49' lang='lat'>&#39;¹&#39;&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 220 987 350 1007; x_wconf 50' lang='lat' dir='ltr'><strong>*HARVARD</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 363 990 472 1009; x_wconf 56' lang='lat' dir='ltr'>comma</span> <span class='ocrx_word' id='word_1_11' title='bbox 483 992 592 1011; x_wconf 77' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_12' title='bbox 605 970 647 1030; x_wconf 63' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_13' title='bbox 685 998 697 1012; x_wconf 63' lang='grc' dir='ltr'>ι,</span> <span class='ocrx_word' id='word_1_14' title='bbox 708 994 721 1015; x_wconf 63' lang='lat'>5⁴</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 220 1022 731 1035; baseline 0.014 -7"><span class='ocrx_word' id='word_1_15' title='bbox 220 1022 246 1024; x_wconf 40' lang='lat' dir='ltr'>*J</span> <span class='ocrx_word' id='word_1_16' title='bbox 406 1024 408 1027; x_wconf 86' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 421 1024 422 1027; x_wconf 70' lang='lat'><em>=</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 592 1028 600 1029; x_wconf 31' lang='lat' dir='ltr'><em>ff</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 710 1025 731 1035; x_wconf 56' lang='lat' dir='ltr'>*u</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 50 54 783 1308">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 50 54 783 1308">
+     <span class='ocr_line' id='line_1_5' title="bbox 50 54 783 1308; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 50 54 783 1308; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 788 78 789 633">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 788 78 789 633">
+     <span class='ocr_line' id='line_1_6' title="bbox 788 78 789 633; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 788 78 789 633; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
